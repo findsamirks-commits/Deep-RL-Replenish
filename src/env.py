@@ -281,3 +281,4 @@ if __name__ == "__main__":
             if done:
                 break
         print(f"Random Policy 60-Day Cost: ₹{-total_r:,.0f} | Final Service Level: {info['service_level']*100:.1f}%")
+

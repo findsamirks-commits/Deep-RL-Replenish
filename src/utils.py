@@ -30,3 +30,4 @@ def load_config(config_path: str) -> Dict[str, Any]:
 def get_device() -> str:
     """Returns 'cuda' if GPU is available, else 'cpu'."""
     return "cuda" if torch.cuda.is_available() else "cpu"
+

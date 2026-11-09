@@ -27,3 +27,4 @@ To train policies on actual dark-store POS demand history, provide a CSV with th
 
 Place your historical CSV at `data/historical_demand.csv`.
 The environment loader will replay empirical demand samples rather than synthetic Gaussians.
+

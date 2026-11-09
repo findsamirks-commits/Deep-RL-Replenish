@@ -122,3 +122,4 @@ flowchart LR
 - **Inbound Stream 2 (BasketGNN)**: Co-purchase graph embeddings provide cross-SKU affinity multipliers, anticipating multi-item basket spikes.
 - **Outbound Stream 1 (FEFO Commercial Bridge)**: Maps continuous policy actions to supplier minimum order quantities (MOQ) and case-pack multiples.
 - **Outbound Stream 2 (Agentic-Inventory-Optimizer)**: Receives validated PO recommendations and executes autonomous vendor EDI communication and negotiation.
+

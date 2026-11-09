@@ -254,3 +254,4 @@ class RandomPolicy(BaseInventoryPolicy):
         self, obs: np.ndarray, env_info: Optional[Dict[str, Any]] = None
     ) -> np.ndarray:
         return self.rng.uniform(0.0, self.max_order, size=self.action_dim).astype(np.float32)
+
