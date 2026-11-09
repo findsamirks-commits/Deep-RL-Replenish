@@ -20,7 +20,7 @@
 
 ## 🎯 Why this project
 
-Your existing [`Agentic-Inventory-Optimizer`](https://github.com/findsamirks-commits/Agentic-Inventory-Optimizer) is rule + LLM based — a *crafted* policy. **Deep-RL-Replenish is the learned-policy counterpart.** Put side by side, the two tell a complete story:
+The companion repository [`Agentic-Inventory-Optimizer`](https://github.com/findsamirks-commits/Agentic-Inventory-Optimizer) is rule + LLM based — a *crafted* policy. **Deep-RL-Replenish is the learned-policy counterpart.** Put side by side, the two demonstrate a complete architectural continuum:
 
 | Dimension | `Agentic-Inventory-Optimizer` | `Deep-RL-Replenish` |
 |---|---|---|
